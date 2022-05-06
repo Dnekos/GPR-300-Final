@@ -5,7 +5,8 @@ Aster Nie
 Demetrius Nekos
 Nicholas (Loki) Sanguine
 Michael Leonard
-Aster Nie , May 6 at 5:27pm
+Aster Nie
+
 Our Shader/Material effects:
 1. Loki master water shader
 2-5. Aster waterfall (2-column, 3-splash, 4-ripple, 5-particles)
