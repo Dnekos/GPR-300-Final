@@ -1,11 +1,9 @@
 # GPR-300-Final
 
+Spring 2022
 This final is for:
-Aster Nie
-Demetrius Nekos
-Nicholas (Loki) Sanguine
-Michael Leonard
-Aster Nie
+Aster Nie, Demetrius Nekos, Nicholas (Loki) Sanguine, Michael Leonard
+
 
 Our Shader/Material effects:
 1. Loki master water shader
